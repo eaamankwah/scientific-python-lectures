@@ -416,16 +416,23 @@ Zenodo. https://doi.org/10.5281/zenodo.594102
 ### Upcoming Features
 
 🎥 **Video Tutorials**: Supplementary video content
+
 🤖 **Interactive Widgets**: Live code execution
+
 📱 **Mobile App**: Offline learning companion
+
 🌐 **Multilingual**: Translations in major languages
+
 🧪 **Assessment Tools**: Automated testing and grading
 
 ### Long-term Vision
 
 🎓 **Certification Program**: Recognized credentials
+
 🏢 **Industry Partnerships**: Real-world case studies
+
 🔬 **Research Integration**: Latest scientific developments
+
 🌍 **Global Accessibility**: Universal access to scientific education
 
 ---
