@@ -359,8 +359,11 @@ git push origin feature/your-improvement
 Special thanks to our amazing contributors who make this project possible:
 
 👥 **Core Team**: Experienced scientific Python developers
+
 🎓 **Academic Partners**: University professors and researchers
+
 🏢 **Industry Experts**: Professional practitioners
+
 👨‍💻 **Community**: Open source enthusiasts
 
 ## 📜 License & Usage
@@ -370,8 +373,11 @@ Special thanks to our amazing contributors who make this project possible:
 This project is released under the **BSD 3-Clause License**, ensuring:
 
 ✅ **Free Usage**: Educational and commercial use permitted
+
 ✅ **Modification Rights**: Adapt content for your needs
+
 ✅ **Distribution**: Share and redistribute freely
+
 ✅ **Attribution**: Credit original authors
 
 ### Usage Rights
@@ -430,7 +436,9 @@ Zenodo. https://doi.org/10.5281/zenodo.594102
 
 This project is made possible by the scientific Python community, dedicated educators, and open source contributors worldwide.
 
-**[📚 Start Learning](https://lectures.scientific-python.org/)** • **[🤝 Contribute](CONTRIBUTING.rst)** • **[📖 Documentation](https://lectures.scientific-python.org/)**
+**[📚 Start Learning](https://lectures.scientific-python.org/)** 
+• **[🤝 Contribute](CONTRIBUTING.rst)** 
+• **[📖 Documentation](https://lectures.scientific-python.org/)**
 
 **[⬆ Back to Top](#scientific-python-lectures-)**
 
